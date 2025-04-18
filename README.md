@@ -23,6 +23,3 @@ A sleek and modern hotel booking webpage template designed to offer a smooth and
 - CSS3  
 - Font Awesome (Icons)  
 - Google Fonts (Typography)
-
-## 📁 Project Structure
-
